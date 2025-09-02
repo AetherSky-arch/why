@@ -26,6 +26,7 @@ I don't like Copilot, but I love and deeply respect the [Libre Software](https:/
 Hopefully, all these cool projects move to better platforms as time passes! I know a few have already started using Gitlab.
 \
 \
+\
 This isn't about Copilot in particular. I don't think AI coding assistants in general are a constructive thing to use - at least not if you're aiming for the top.\
 At the school where I study computer science, I've seen dozens and dozens of students become technologically illiterate the second their AI's are taken from them.\
 And even when you give those back to them, they stay average at best. At worst, they produce barely maintainable bug piles.
