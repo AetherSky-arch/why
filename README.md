@@ -20,6 +20,11 @@ This is what I want to be. I strive to become a master craftsman, someone who pr
 What about in the meantime, though?\
 Well, the more I do things myself, the faster I learn, and the faster I'll get there.
 \
+### "How about contributions to other bigger projects? Those that still use Github?"
+I don't really have a choice but to stay here to contribute if necessary.\
+I don't like Copilot, but I love and deeply respect the [Libre Software](https://en.wikipedia.org/wiki/Free_software) community.\
+Hopefully, all these cool projects move to better platforms as time passes! I know a few have already started using Gitlab.
+\
 \
 This isn't about Copilot in particular. I don't think AI coding assistants in general are a constructive thing to use - at least not if you're aiming for the top.\
 At the school where I study computer science, I've seen dozens and dozens of students become technologically illiterate the second their AI's are taken from them.\
