@@ -26,7 +26,8 @@ At the school where I study computer science, I've seen dozens and dozens of stu
 And even when you give those back to them, they stay average at best. At worst, they produce barely maintainable bug piles.
 \
 Therefore, I will not let these assistants proliferate using what I make.
+I don't believe the hype is gonna keep up for long, anyway.
 \
 \
-### "I'm an employer, I don't care about how you feel, I want productive employees."
-In financial terms: people like me are a long term investment.
+You can find most of my code updated way more often than on here on [my sourcehut page](https://git.sr.ht/~ae7th).
+Sourcehut is (among other things) a git hosting platform that has a strong anti-AI stance.
