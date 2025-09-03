@@ -1,7 +1,7 @@
 # Why am I not using Github anymore?
 ### Isn't it the most well-known? The most user friendly?
 
-Well, I guess.
+Well, I guess.\
 But also, there's Copilot. I don't like Copilot.
 I'm not gonna talk about politics here, so I'll skip the moral and ecological considerations.
 I personally don't like Copilot, because I enjoy programming! I enjoy every single part of it - yes, even the long tedious boilerplate - even the rewriting of a generic function I've already written a bajillion times before. I love every single part of it. I don't want a machine to do any of that for me, ever.
