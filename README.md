@@ -1,5 +1,5 @@
 # Why am I not using Github anymore?
-### Isn't it the most well-known? The most user friendly?
+### Isn't it the most well-known git hosting platform? The most user friendly one?
 
 Well, I guess.\
 But also, there's Copilot. I don't like Copilot.\
